@@ -52,7 +52,7 @@ In order to validate the above claims, we created a small proof of concept to si
 ## Aligning Incentives With Solana
 A move to Solana would be an important step in unlocking the infrastructure required to build strong consumer experience at scale. This would also be an important step in continuing to decentralize the Kin Ecosystem by aligning with another strong team in crypto and running on their public infrastructure. Both we and the Solana team agreed it is important that there are aligned incentives between the two ecosystems. Given that, the Solana Foundation is offering a grant of SOL tokens to the Kin Foundation for the Kin Ecosystem to migrate to Solana. The parameters of that grant are as follows: 
 
-I | II
+Variable | Parameter
 ------------ | -------------
 Max Grant Amount | 1% of the total SOL supply </br>
 Milestones | 0.1% for every 1MM Monthly Active Spenders (MAS)* </br> (Milestones unlock over discrete measurement periods, each milestone is measured as the median MAS in a given period) </br> *Defined as number of distinct Kin payment sources in the last 30 days
